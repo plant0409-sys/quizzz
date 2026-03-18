@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react'
 import Image from 'next/image'
-import quizData from '../../data/quizzes.json'
+import quizData from '../data/quizzes.json'
 
 function shuffleArray(arr) {
   const a = [...arr]
