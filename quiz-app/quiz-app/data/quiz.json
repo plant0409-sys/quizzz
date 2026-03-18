@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/images/question1.jpg",
+    "answer": "apple",
+    "hint": "A red or green fruit"
+  },
+  {
+    "id": 2,
+    "image": "/images/question2.jpg",
+    "answer": "elephant",
+    "hint": "The largest land animal"
+  },
+  {
+    "id": 3,
+    "image": "/images/question3.jpg",
+    "answer": "piano",
+    "hint": "A musical instrument with black and white keys"
+  }
+]

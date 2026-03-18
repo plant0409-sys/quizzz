@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/images/quiz1.jpg",
+    "answer": "에펠탑",
+    "hint": "프랑스 파리의 랜드마크"
+  },
+  {
+    "id": 2,
+    "image": "/images/quiz2.jpg",
+    "answer": "자유의 여신상",
+    "hint": "미국 뉴욕의 랜드마크"
+  },
+  {
+    "id": 3,
+    "image": "/images/quiz3.jpg",
+    "answer": "피사의 사탑",
+    "hint": "이탈리아의 기울어진 건물"
+  }
+]
